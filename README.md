@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JochemBeurskens
-- 👀 I’m interested in neurophysics and machine learning.
+- 👀 I’m interested in neurophysics, machine learning and computational neuroscience/data science.
 - 🌱 I’m currently a neurophysics student at the Radboud University, and I am also taking part in the CNS (computational data science) minor. 
 
 <!---
